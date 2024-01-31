@@ -243,7 +243,9 @@ SELECT DISTINCT
 ````
 ![a49df53ca39ffde3d2a0c5c64fa2ee8](https://github.com/CherryChristie/covid-19-impact-analyisis/assets/148567375/b451b4ec-7576-4def-b95a-672ee655c0d0)
 
-## Recommendations
+## Dashboard
+![1706708267051](https://github.com/CherryChristie/Covid-19-Impact-Analyisis/assets/148567375/501657db-3e85-43ee-8398-961f4ba6a266)
+
 1. THE NHSN should focus and prepare for residents and other patients cases when periods are approaching winter, most especially from December to Februrary, with January as a red alert month.
 2. The NHSN should treat these states (South Dakota , Minnesota, North Dakota, New Jersey and Indiana ) with high importance as they recorded the highest mortality rates. By providing more education, monitoring & Evaluation excercises to residents and patients from these states, potential case spread can be reduced and prevented.
 3. Facilities like Miller's Merry Manor, Brighton Rehabilitation and wellness centre, and cedarbrook senior care & rehabilitation centre needs to be really monitored and evaluated for faster solutions in preventing increase in average weekly cases.
